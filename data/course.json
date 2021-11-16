@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d82e3897-e386-0049-b694-936646093242"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Chinese III (Regular)",
+  "course_description": "This course is designed to consolidate the foundation built in Elementary Chinese and continue developing students skills in aural comprehension, reading, and writing.\n\nUpon completion of the course, students should be able to speak Chinese with some fluency on basic conversational topics, achieve a basic level of reading competence within simplified and traditional characters learned plus common compounds, and be able to write short compositions.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.103",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
